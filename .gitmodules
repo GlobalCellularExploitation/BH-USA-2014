@@ -1,3 +1,9 @@
 [submodule "Android-CellTypeOverride"]
 	path = Android-CellTypeOverride
 	url = https://github.com/GlobalCellularExploitation/Android-CellTypeOverride
+[submodule "Xtrospy-Light"]
+	path = Xtrospy-Light
+	url = https://github.com/mblanchou/Xtrospy-Light
+[submodule "DecloakDroid"]
+	path = DecloakDroid
+	url = https://github.com/GlobalCellularExploitation/DecloakDroid
