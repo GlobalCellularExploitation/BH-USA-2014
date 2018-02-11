@@ -1,0 +1,3 @@
+[submodule "Android-CellTypeOverride"]
+	path = Android-CellTypeOverride
+	url = https://github.com/GlobalCellularExploitation/Android-CellTypeOverride
