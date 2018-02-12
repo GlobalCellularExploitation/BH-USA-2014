@@ -7,3 +7,6 @@
 [submodule "DecloakDroid"]
 	path = DecloakDroid
 	url = https://github.com/GlobalCellularExploitation/DecloakDroid
+[submodule "ROP-Generator"]
+	path = ROP-Generator
+	url = https://github.com/mblanchou/ROP-as-a-Service
